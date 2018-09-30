@@ -2,7 +2,7 @@
   "organizer": {
     "name": "GDG Indore",
     "twitter": "gdg_indore",
-    "url": "http://gdgindore.in/"
+    "url": "https://twitter.com/gdg_indore"
   },
   "startDate": "2017-10-013T09:00:00+03:00",
   "endDate": "2017-10-14T19:00:00+03:00",
@@ -45,7 +45,7 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "Code. Push. Build.",
+      "description": "Be a GDG. Be the change!",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
@@ -115,7 +115,7 @@
     "name": "DevFest 2K18",
     "city": "Indore",
     "short": "Indore, Madhya Pradesh",
-    "address": "TBD, Indore, Madhya Pradesh",
+    "address": "Indore, Madhya Pradesh",
     "pointer": {
       "latitude": 49.809841,
       "longitude": 23.972805,

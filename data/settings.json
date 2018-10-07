@@ -2,7 +2,8 @@
   "organizer": {
     "name": "GDG Indore",
     "twitter": "gdg_indore",
-    "url": "http://gdgindore.in/"
+    "url": "https://twitter.com/gdg_indore",
+    "blog": "https://www.meetup.com/GoogleDeveloperGroupIndore"
   },
   "startDate": "2017-10-013T09:00:00+03:00",
   "endDate": "2017-10-14T19:00:00+03:00",
@@ -23,16 +24,6 @@
       "label": "Home"
     },
     {
-      "route": "speakers",
-      "permalink": "/speakers/",
-      "label": "Speakers"
-    },
-    {
-      "route": "schedule",
-      "permalink": "/schedule/",
-      "label": "Schedule"
-    },
-    {
       "route": "team",
       "permalink": "/team/",
       "label": "Team"
@@ -45,7 +36,7 @@
   ],
   "heroSettings": {
     "home": {
-      "description": "Code. Push. Build.",
+      "description": "Be a GDG. Be the change!",
       "background": {
         "color": "#673ab7",
         "image": "/images/backgrounds/home.jpg"
@@ -112,20 +103,21 @@
   },
   "location": {
     "label": "Venue",
-    "name": "DevFest 2K18",
+    "name": "DevFest 2018",
     "city": "Indore",
     "short": "Indore, Madhya Pradesh",
-    "address": "TBD, Indore, Madhya Pradesh",
+    "address": "Indore, Madhya Pradesh",
+    "mapUrl": "https://goo.gl/maps/AheSnUzjEMU2",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
-      "zoom": 5
+      "latitude": 22.751443,
+      "longitude": 75.889318,
+      "zoom": 10
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": 22.751443,
+      "longitude": 75.889318
     },
-    "description": "TBD"
+    "description": "TBA"
   },
   "mediaQueries": {
     "xs": {

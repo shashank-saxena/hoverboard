@@ -1,9 +1,9 @@
 {
-  "title": "GDG DevFest Season 2018",
-  "description": "Code. Push. Build.",
+  "title": "GDG Indore DevFest Season 2018",
+  "description": "Be a GDG. Be the change!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gdgindore, indore, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "TBD, 2018",
+  "dates": "",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Share",
   "followOur": "Follow our",
@@ -25,7 +25,7 @@
   "faq": "/data/faq.md",
   "cod": "/data/cod.md",
   "footer": {
-    "blog": "Blog"
+    "blog": "Meetup"
   },
   "mySchedule": {
     "title": "My Schedule",
@@ -42,13 +42,13 @@
         },
         {
           "name": "GDG Groups",
-          "url": "https://www.meetup.com/pro/gdg#groups",
+          "url": "https://www.facebook.com/groups/gdgindore/",
           "newTab": true
         },
         {
           "name": "Meet the Team",
           "url": "/team/",
-          "newTab": true
+          "newTab": false
         }
       ]
     },
@@ -61,8 +61,8 @@
           "newTab": true
         },
         {
-          "name": "DevFest 2018",
-          "url": "https://devfest18.gdgindore.in",
+          "name": "DevFest 2016",
+          "url": "https://photos.google.com/share/AF1QipN692eiAv7jApGlmatb8FLQbHoa0WlV6sRFHdmBLOg_L9Lnoe7oGV58xxR7M0vzZw?key=ZWllVE41Y2d5RHRXM0RRZGJnLTg3eXZuMl9Sc3lB",
           "newTab": true
         }
       ]
@@ -71,28 +71,18 @@
       "title": "Event Resources",
       "links": [
         {
-          "name": "Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
+          "name": "Coming Soon",
+          "url": "#",
+          "newTab": false
+        }
+      ]
+    },
+    {
+      "title": "Hackathon",
+      "links": [
         {
-          "name": "Info Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Media Kit",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Call for Papers",
-          "url": "https://drive.google.com/open?id=10tPuu_7ASM8C70SotqRqIW5Uzos9BzALilMMQPg_JvA",
-          "newTab": true
-        },
-        {
-          "name": "FAQs",
-          "url": "/faq/",
+          "name": "Coming Soon",
+          "url": "#",
           "newTab": false
         }
       ]
@@ -104,20 +94,20 @@
     "title": "What you need to know, before you ask.",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Indore brings together the world class experts in Android, Web and Cloud technologies to central India for a day of sessions, workshops and showcases.",
+        "description": "Every year GDG proudly hosts Central India’s biggest Tech Convention-DevFest. Alongside this GDG Indore additionally has an assortment of various technical occasions, workshops, and meetups consistently. GDG Indore intends to make an imaginative ground for students, hobbyists, tech enthusiasts and professional developers to get together and change the world!",
         "label": "Explore featured session",
-        "link": "https://youtu.be/uPrrc_KbZXo"
+        "link": "/speakers/"
       },
       "howItWas": {
-        "description": "Our team creates DevFest to be the best place for experience sharing in a phenomenal atmosphere.",
+        "description": "GDG Indore is an open community works as a perspective to bring the change and known for its amazing technical events like a box full of knowledge throughout the year.",
         "label": "See how it was in 2017",
-        "youtubeId": "TdpbgRgz6eE"
+        "youtubeId": "uPrrc_KbZXo"
       }
     },
     "statisticsBlock": {
       "attendees": {
         "label": "Attendees",
-        "number": "300"
+        "number": "400+"
       },
       "days": {
         "label": "Days",
@@ -125,7 +115,7 @@
       },
       "sessions": {
         "label": "Sessions",
-        "number": "14"
+        "number": "TBA"
       },
       "tracks": {
         "label": "Tracks",
@@ -193,7 +183,7 @@
     "description": "This year's festival built lots of excitement. Check out photos from featured talks, hands-on learning sessions, and after-hours fun.",
     "callToAction": {
       "label": "See all photos",
-      "link": ""
+      "link": "https://photos.app.goo.gl/UVsftrjS7n7Hcgg17"
     }
   },
   "mapBlock": {
@@ -201,14 +191,14 @@
   },
   "subscribeBlock": {
     "callToAction": {
-      "description": "Get notified about the important conference updates",
-      "label": "Subscribe"
+      "description": "Get notified about the important conference updates via our meetup page",
+      "label": "Join GDG Group"
     },
     "yourEmail": "Your email",
     "emailAddress": "Email Address",
     "firstName": "First Name",
     "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
+    "formTitle": "Get the latest updates, insights and news about GDG DevFest Indore sent to your inbox.",
     "emailRequired": "Please enter a valid email address.",
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",
@@ -217,7 +207,7 @@
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Indore] - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT."
+    "description": "We are like minded passionate people who belong to different technical backgrounds and create exciting projects and share their experiences with fellow developers. We provide a group to share different ideas and network with fellow developers. GDG Indore is a place to learn about Google technologies and development tools. We seek to provide intellectual grounding through tech sessions conducted throughout the year. We host a variety of technical activities for developers - from just a few people getting together to live stream Google events, to large gatherings with demos and tech talks, to hackathons. Our zeal to contribute to the development of society and passion for technology drives our community. Anyone with the same passion and interest can become our team member. It is open to and free for all interested."
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
@@ -250,7 +240,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='https://www.meetup.com/GoogleDeveloperGroupIndore' target='_blank'>GDG Indore</a> with support of all Tech communities is proud organizer of DevFest Indore",
+        "description": "<a href='https://www.meetup.com/GoogleDeveloperGroupIndore' target='_blank'>GDG Indore</a> We are tech enthusiast who voluntarily contributes to the developer’s society. We provide platform for developers to meet and discuss different technologies.",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"

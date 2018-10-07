@@ -77,54 +77,44 @@
   },
   "partners": [
     {
+      "title": "Community Partners",
       "logos": [
         {
           "logoUrl": "../images/logos/gdg-indore.png",
           "name": "GDG Indore",
           "url": "https://www.meetup.com/GoogleDeveloperGroupIndore"
-        }
-      ],
-      "title": "GDG Indore"
-    },
-    {
-      "logos": [
+        },
         {
           "logoUrl": "../images/logos/wtm.jpg",
           "name": "WTM Indore",
           "url": "https://www.facebook.com/wtmindore/"
         }
-      ],
-      "title": "WTM Indore"
+      ]
     },
     {
+      "title": "Tech Companies",
       "logos": [
         {
           "logoUrl": "../images/logos/softinator_logo_mgowhc.svg",
           "name": "Softinator TechLabs Pvt. Ltd",
           "url": "https://softinator.com/"
-        }
-      ],
-      "title": "Softinator TechLabs"
-    },
-    {
-      "logos": [
+        },
         {
           "logoUrl": "../images/logos/GitHub_Logo.png",
           "name": "GitHub",
           "url": "https://github.com/"
         }
-      ],
-      "title": "GitHub"
+      ]
     },
     {
+      "title": "General Partner",
       "logos": [
         {
           "logoUrl": "../images/logos/google.svg",
           "name": "Google",
           "url": "https://www.google.com.ua/intl/en/about/"
         }
-      ],
-      "title": "General Partner"
+      ]
     }
   ],
   "schedule": {

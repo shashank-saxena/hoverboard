@@ -47,9 +47,10 @@
       "title": "Blog",
       "metaDescription": "Read stories from our team",
       "background": {
-        "color": "#FFF"
+        "color": "#FFF",
+        "image": "/images/posts/Blog.JPG"
       },
-      "fontColor": "#424242"
+      "fontColor": "#FFF"
     },
     "speakers": {
       "title": "Speakers",
@@ -80,9 +81,10 @@
       "title": "Team",
       "metaDescription": "Get more info about organizers",
       "background": {
-        "color": "#fff"
+        "color": "#fff",
+        "image": "/images/team.jpg"
       },
-      "fontColor": "#424242"
+      "fontColor": "#FFF"
     },
     "faq": {
       "title": "FAQs",
@@ -106,18 +108,18 @@
     "name": "DevFest 2018",
     "city": "Indore",
     "short": "Indore, Madhya Pradesh",
-    "address": "Indore, Madhya Pradesh",
-    "mapUrl": "https://goo.gl/maps/AheSnUzjEMU2",
+    "address": "Sayaji, Scheme 54, H/1, Vijay Nagar, Indore, Madhya Pradesh 452010",
+    "mapUrl": "https://goo.gl/maps/vqJG93uuTQM2",
     "pointer": {
-      "latitude": 22.751443,
-      "longitude": 75.889318,
-      "zoom": 10
+      "latitude": 22.7514079,
+      "longitude": 75.887103,
+      "zoom": 12
     },
     "mapCenter": {
       "latitude": 22.751443,
       "longitude": 75.889318
     },
-    "description": "TBA"
+    "description": "Sayaji, Indore"
   },
   "mediaQueries": {
     "xs": {

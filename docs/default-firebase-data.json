@@ -135,36 +135,24 @@
               "icon": "facebook",
               "link": "https://www.facebook.com/PradhanYashSharma",
               "name": "Facebook"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/PradhanYashSha1?lang=en",
-              "name": "Twitter"
             }
           ],
           "title": "GDG Indore Lead"
         },
         {
           "name": "Suyash Dixit",
-          "photo": "",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/1926259_10152793925544341_5414965194393659233_o.jpg?alt=media&token=b0b2966e-4b1d-4e64-bbf9-59da730b8086",
           "socials": [
             {
               "icon": "facebook",
               "link": "https://www.facebook.com/suyashthegreat",
               "name": "Facebook"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/iamsuyashdixit?s=17",
-              "name": "Twitter"
             }
           ],
           "title": "Organizer"
         },
         {
           "name": "Shashank Saxena",
-          "photo": "",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/300444_218470951540928_229761846_n.jpg?alt=media&token=417a0d6c-4d52-46da-9815-9d3a6879d7da",
           "socials": [
             {
@@ -177,7 +165,6 @@
         },
         {
           "name": "Tushar Pal",
-          "photo": "",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/30167961_1775509945832756_4439794237765064613_o.jpg?alt=media&token=53549b2e-5830-47b8-b844-c65a6b6ac771",
           "socials": [
             {
@@ -190,7 +177,6 @@
         },
         {
           "name": "Ranu Jaiswal",
-          "photo": "",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/Ranu.jpg?alt=media&token=7ba3ec02-676a-47b7-b91b-f7c1d74db84f",
           "socials": [
             {
@@ -203,7 +189,6 @@
         },
         {
           "name": "Tanishka Porwal",
-          "photo": "",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/Tanishka.jpg?alt=media&token=db892e92-ced3-4ae5-ac97-1c361f1f3d9d",
           "socials": [
             {
@@ -216,7 +201,6 @@
         },
         {
           "name": "Devesh Lashkari",
-          "photo": "",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/Devesh.jpg?alt=media&token=7c7f8c42-09d8-489e-89d8-fd10e8525635",
           "socials": [
             {
@@ -229,7 +213,6 @@
         },
         {
           "name": "Aditi Soni",
-          "photo": "",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/21316150_1783762511915219_8208681365857562724_o.jpg?alt=media&token=6a2dc204-20ae-4806-85b3-96ee71b61b11",
           "socials": [
             {
@@ -242,7 +225,6 @@
         },
         {
           "name": "Bushra Sagir",
-          "photo": "",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/Bushra.jpg?alt=media&token=c97ea085-86c4-4bba-9d77-aabef578f253",
           "socials": [
             {
@@ -255,7 +237,6 @@
         },
         {
           "name": "Aayush Agrawal",
-          "photo": "",
           "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/20476374_1405423859495469_6730500479590551869_n.jpg?alt=media&token=9d84da87-f32e-4404-b7e9-cc789cf47647",
           "socials": [
             {
@@ -271,6 +252,96 @@
     },
     {
       "members": [
+        {
+          "name": "Mohit Khandelwal",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/mohit.jpeg?alt=media&token=0bf52250-82d5-41d9-ae4c-049276e74599",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "http://fb.com/mohit.khandelwal.72",
+              "name": "Facebook"
+            }
+          ]
+        },
+        {
+          "name": "Adeen Shukla",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/adeen.jpeg?alt=media&token=72b84c0d-307d-42b7-b0e2-b6d2c44d00d9",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://facebook.com/RealAdeenShukla",
+              "name": "Facebook"
+            }
+          ]
+        },
+        {
+          "name": "Tejasva Bansal",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/tejasva.jpg?alt=media&token=4380b229-ea50-4f92-ad9a-4642b41fa597",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/itstejasvabansal",
+              "name": "Facebook"
+            }
+          ]
+        },
+        {
+          "name": "Sanidhya Mangal",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/IMG_20181012_195318.jpg?alt=media&token=acd5ebd0-a9d7-4485-a2fd-e20142229d7d",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/mangalsanidhya",
+              "name": "Facebook"
+            }
+          ]
+        },
+        {
+          "name": "Savvy Jain",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/savvyjain.jpg?alt=media&token=5774702f-5aea-4f6f-a865-5ffbf19f752e",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/jainsavvy",
+              "name": "Facebook"
+            }
+          ]
+        },
+        {
+          "name": "Garima Bhaisare",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/2018-02-11-18-08-52-809.jpg?alt=media&token=4e41113a-47ea-4ecf-a394-2b9670de8ee9",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/garimabhaisare",
+              "name": "Facebook"
+            }
+          ]
+        },
+        {
+          "name": "Soumya Reja",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/image.jpg?alt=media&token=2599b20e-f170-4863-83f2-5fb887e18764",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/Rsoumyaeja",
+              "name": "Facebook"
+            }
+          ]
+        },
+        {
+          "name": "Sheetal Sinhal",
+          "photo": "",
+          "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/IMG_20180805_171835.jpg?alt=media&token=bcee523d-87ca-4b63-94d3-14ff5fd49bfb",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/profile.php?id=100012228887875",
+              "name": "Facebook"
+            }
+          ]
+        }
       ],
       "title": "Program Committee"
     }

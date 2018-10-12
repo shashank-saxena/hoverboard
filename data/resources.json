@@ -3,7 +3,7 @@
   "description": "Be a GDG. Be the change!",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gdgindore, indore, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "",
+  "dates": "18 Nov, 2018",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Share",
   "followOur": "Follow our",
@@ -118,8 +118,8 @@
         "number": "TBA"
       },
       "tracks": {
-        "label": "Tracks",
-        "number": "2"
+        "label": "Track",
+        "number": "1"
       }
     }
   },

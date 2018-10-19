@@ -1,14 +1,14 @@
 {
   "basepath": "/",
-  "url": "https://gdg-devfest-18-97ada.firebaseapp.com/",
+  "url": "https://devfest-18-local-prod.firebaseapp.com/",
   "prefix": "/",
   "firebase": {
-    "apiKey": "AIzaSyD0Z70DvvtEp5hw7LyCx1ZOX8jknwxMU9E",
-    "authDomain": "gdg-devfest-18-97ada.firebaseapp.com",
-    "databaseURL": "https://gdg-devfest-18-97ada.firebaseio.com",
-    "projectId": "gdg-devfest-18-97ada",
-    "storageBucket": "gdg-devfest-18-97ada.appspot.com",
-    "messagingSenderId": "1055605648427"
+    "apiKey": "AIzaSyDrlDAXzSvs0qwDTTrz5pxl3ER3yvlf7GU",
+    "authDomain": "devfest-18-local-prod.firebaseapp.com",
+    "databaseURL": "https://devfest-18-local-prod.firebaseio.com",
+    "projectId": "devfest-18-local-prod",
+    "storageBucket": "devfest-18-local-prod.appspot.com",
+    "messagingSenderId": "502610235301"
   },
 
   "analytics": "UA-43643469-8",

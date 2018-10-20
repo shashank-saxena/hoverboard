@@ -147,7 +147,6 @@
           "name": "Stack Overflow"
         }
       ],
-      "order": 1,
       "title": "Senior Developer"
     },
     "Manan Sheth": {
@@ -178,7 +177,6 @@
           "name": "Stack Overflow"
         }
       ],
-      "order": 1,
       "title": "Associate Technical Architect"
     },
     "Mohit Soni": {
@@ -206,7 +204,6 @@
           "name": "Stack Overflow"
         }
       ],
-      "order": 1,
       "title": "Android Developer"
     },
     "Ishwar Sawale": {
@@ -234,7 +231,6 @@
           "name": "Stack Overflow"
         }
       ],
-      "order": 1,
       "title": "Data Scientist"
     }
   },

@@ -164,7 +164,7 @@
             {% endfor %}
           </iron-selector>
 
-          <!-- <a
+          <a
             class="buy-ticket"
             href$="[[tickets.url]]"
             target="_blank"
@@ -176,7 +176,7 @@
           >
             <span>{$ buyTicket $}</span>
             <iron-icon icon="hoverboard:open-in-new"></iron-icon>
-          </a> -->
+          </a>
         </div>
 
       </app-drawer>
@@ -221,7 +221,7 @@
           <previous-speakers-page
             data-route="previous-speakers"
             data-path="pages/previous-speakers-page.html"
-            route="[[subroute]]"
+            routeGet notified about the important conference updates via our meetup page="[[subroute]]"
           ></previous-speakers-page>
           <team-page
             data-route="team"
@@ -278,6 +278,11 @@
       with-backdrop
       no-cancel-on-outside-click="[[viewport.isPhone]]">
     </subscribe-dialog>
+
+    <signin-dialog
+      opened="[[dialogs.signin.isOpened]]"
+      with-backdrop>
+    </signin-dialog>
 
     <hoverboard-analytics></hoverboard-analytics>
     <toast-element></toast-element>

@@ -349,58 +349,63 @@
   "tickets": [
     {
       "available": true,
-      "currency": "INR",
-      "ends": "Oct 28",
-      "info": "Requires valid student/Professional ID",
+      "primary": true,
+      "regular": true,
+      "soldOut": false,
+      "inDemand": true,
+      "info": "Valid for Female developers only. To promote more Female in tech we are giving access to female developers separately. Any male registered for this ticket will be disqualified automatically at the event.",
+      "name": "Women Techmakers",
+      "ends": "30 Oct",
+      "starts": "28 Oct",
+      "url": "https://www.townscript.com/e/gdg-indore-devfest-2018-224422"
+    },
+    {
+      "available": false,
+      "primary": false,
+      "regular": true,
+      "soldOut": false,
+      "inDemand": false,
+      "ends": "02 Nov",
+      "info": "This ticket is valid for students and professional developers who are enthusiastic about learning new technologies. Make sure you have prior programming experience as topics of sessions will be advanced, taking the audience into consideration.",
       "name": "Early Bird",
-      "price": 0,
-      "soldOut": false,
-      "starts": "Oct 31",
-      "url": "https://2event.com/events/1027108"
-    },
-    {
-      "available": true,
-      "currency": "INR",
-      "ends": "Nov 1",
-      "info": "Requires valid Student/Professional ID",
-      "name": "WTM",
-      "price": 0,
-      "soldOut": false,
-      "starts": "Nov 4",
-      "url": "https://2event.com/events/1027108"
-    },
-    {
-      "available": true,
-      "currency": "INR",
-      "ends": "Nov 5",
-      "info": "Requires valid Professional ID",
-      "name": "Working Professional",
-      "price": 0,
-      "soldOut": false,
-      "starts": "Nov ",
-      "url": "https://2event.com/events/1027108"
+      "starts": "31 Oct",
+      "url": "https://www.townscript.com/e/gdg-indore-devfest-2018-224422"
     },
     {
       "available": false,
-      "currency": "INR",
-      "ends": "Nov ",
-      "info": "Requires valid Student/Professional ID",
+      "primary": false,
+      "regular": true,
+      "soldOut": false,
+      "inDemand": false,
+      "ends": "07 Nov",
+      "info": "This ticket is valid only for non-student working professionals who are part of any organisation. It will be compulsory to show your professional ID (company identification) at the event entrance.",
+      "name": "Professional Developer",
+      "starts": "03 Nov",
+      "url": "https://www.townscript.com/e/gdg-indore-devfest-2018-224422"
+    },
+    {
+      "available": false,
+      "primary": false,
+      "regular": true,
+      "soldOut": false,
+      "inDemand": false,
+      "ends": "10 Nov",
+      "info": "This ticket is valid for students as well as working professionals. Make sure you have prior programming experience as topics of sessions will be advanced taking the audience in consideration.",
       "name": "Regular Bird",
-      "price": 0,
-      "soldOut": false,
-      "starts": "Nov ",
-      "url": "https://2event.com/events/1027108"
+      "starts": "08 Nov",
+      "url": "https://www.townscript.com/e/gdg-indore-devfest-2018-224422"
     },
     {
       "available": false,
-      "currency": "INR",
-      "ends": "Nov 13",
-      "info": "Requires valid Student/Professional ID",
-      "name": "Lazy Bird",
-      "price": 0,
       "soldOut": false,
-      "starts": "Nov 11",
-      "url": "https://2event.com/events/1027108"
+      "primary": false,
+      "regular": true,
+      "inDemand": false,
+      "ends": "13 Nov",
+      "starts": "11 Nov",
+      "info": "These tickets are for students as well as working professionals. People who couldn’t grab the DevFest tickets before, this is the last opportunity for them to be a part of the event.",
+      "name": "Lazy Bird",
+      "url": "https://www.townscript.com/e/gdg-indore-devfest-2018-224422"
     }
   ],
   "triggers": {

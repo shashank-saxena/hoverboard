@@ -68,22 +68,12 @@
       ]
     },
     {
-      "title": "Event Resources",
+      "title": "CodeFest 18",
       "links": [
         {
-          "name": "Coming Soon",
-          "url": "#",
-          "newTab": false
-        }
-      ]
-    },
-    {
-      "title": "Hackathon",
-      "links": [
-        {
-          "name": "Coming Soon",
-          "url": "#",
-          "newTab": false
+          "name": "Register",
+          "url": "http://bit.ly/CodeFest18",
+          "newTab": true
         }
       ]
     }
@@ -191,8 +181,9 @@
   },
   "subscribeBlock": {
     "callToAction": {
-      "description": "Get notified about the important conference updates via our meetup page",
-      "label": "Join GDG Group"
+      "description": "GDG Indore presents CodeFest'18 in this DevFest season open for Students, Professionals, and Developers.",
+      "label": "Register",
+      "link": "http://bit.ly/CodeFest18"
     },
     "yourEmail": "Your email",
     "emailAddress": "Email Address",

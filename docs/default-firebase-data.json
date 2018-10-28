@@ -122,6 +122,164 @@
   "sessions": {
   },
   "speakers": {
+    "Varun Kothari": {
+      "badges": [
+        {
+          "description": "Google Cloud"
+        }
+      ],
+      "company": "Throughout Technologies Pvt. Ltd",
+      "featured": false,
+      "name": "Varun Kothari",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/varunkothari.jpeg?alt=media&token=90512e38-a8a9-4cfd-9c5c-b419e3ea24b4",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/varunkothari.jpeg?alt=media&token=90512e38-a8a9-4cfd-9c5c-b419e3ea24b4",
+      "socials": [
+        {
+          "icon": "github",
+          "link": "https://github.com/varunkothari007",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/varun-kothari-03005ab/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "stackoverflow",
+          "link": "https://stackoverflow.com/users/387402/vik",
+          "name": "Stack Overflow"
+        }
+      ],
+      "order": 1,
+      "title": "Co-founder, Director"
+    },
+    "Ishwar Sawale": {
+      "company": "Mindstix Software Labs",
+      "featured": false,
+      "name": "Ishwar Sawale",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/Ishwars.jpeg?alt=media&token=e75cd408-1672-4623-8b4d-179a1fbb2e51",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/Ishwars.jpeg?alt=media&token=e75cd408-1672-4623-8b4d-179a1fbb2e51",
+      "socials": [
+        {
+          "icon": "github",
+          "link": "https://github.com/ishwarsawale",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/ishwarsawale",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "stackoverflow",
+          "link": "https://stackoverflow.com/users/6694165/mr-robot",
+          "name": "Stack Overflow"
+        }
+      ],
+      "order": 2,
+      "title": "Data Scientist"
+    },
+    "Ankush Tiwari": {
+      "company": "Mobiliya Technologies",
+      "featured": false,
+      "name": "Ankush Tiwari",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/AnkushTiwari.jpeg?alt=media&token=57adb56c-df3d-4370-a46c-7c7ad0cce714",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/AnkushTiwari.jpeg?alt=media&token=57adb56c-df3d-4370-a46c-7c7ad0cce714",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "www.linkedin.com/in/ankushtiwari",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 3,
+      "title": "Machine Learning Expert"
+    },
+    "Ajinkya Kolhe": {
+      "company": "Google",
+      "featured": false,
+      "name": "Ajinkya Kolhe",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.55.00%20PM.jpeg?alt=media&token=261412aa-8770-41c4-857c-8c3189cd7a9c",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.55.00%20PM.jpeg?alt=media&token=261412aa-8770-41c4-857c-8c3189cd7a9c",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/ajinkyakolhe112/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 4,
+      "title": "Machine Learning Expert"
+    },
+    "Pawan Kumar": {
+      "company": "Flick2Know Technologies Pvt Ltd",
+      "featured": false,
+      "name": "Pawan Kumar",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.30.40%20PM.jpeg?alt=media&token=01f452c3-c9e5-46e2-a084-5d45e4ee3957",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.30.40%20PM.jpeg?alt=media&token=01f452c3-c9e5-46e2-a084-5d45e4ee3957",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://in.linkedin.com/in/imthepk",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/iampawan",
+          "name": "Github"
+        }
+      ],
+      "order": 5,
+      "title": "Flutter"
+    },
+    "Tarulata Champawat": {
+      "company": "Infobeans technologies Ltd",
+      "featured": false,
+      "name": "Tarulata Champawat",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.30.17%20PM.jpeg?alt=media&token=6f6bbe51-de7a-49cd-b796-e0b7442282ab",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.30.17%20PM.jpeg?alt=media&token=6f6bbe51-de7a-49cd-b796-e0b7442282ab",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/tarulata-champawat-04193416/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 6,
+      "title": "ServiceNow"
+    },
+    "Nikita Gandhi": {
+      "company": "JI Technovation Pvt LTD",
+      "featured": false,
+      "name": "Nikita Gandhi",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.31.21%20PM%20(1).jpeg?alt=media&token=cb1ce412-c201-482f-a124-350af556dd2a",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.31.21%20PM%20(1).jpeg?alt=media&token=cb1ce412-c201-482f-a124-350af556dd2a",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/nikita-gandhi-538071a1/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 7,
+      "title": "Flutter"
+    },
+    "Harshada Kshirsagar": {
+      "company": "Microsoft",
+      "featured": false,
+      "name": "Harshada Kshirsagar",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/harshida.jpeg?alt=media&token=3e5f557a-5a4d-4477-aa82-8ec49b91cbdb",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/harshida.jpeg?alt=media&token=3e5f557a-5a4d-4477-aa82-8ec49b91cbdb",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/harshada-kshirsagar-66848017",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 8,
+      "title": "Xamarin"
+    }
   },
   "team": [
     {

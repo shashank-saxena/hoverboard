@@ -351,23 +351,43 @@
      "order": 7,
      "title": "Flutter Evangelist & Developer"
    },
-   "Harshada Kshirsagar": {
-     "company": "Microsoft",
+    
+    "Harshada Kshirsagar": {
+     "badges": [
+       {
+         "description": "Microsoft-Premier Field Engineer",      
+       }
+       ],
+      "bio": "The community rockstar and star advisor from Microsoft is here to share her valuable knowledge about Xamrin. Currently she is working as Windows Dev consultant in Microsoft. Being familiar with Desktop Bridge, she helps developers to publish their apps on store and boosting their skills and knowledge about universal windows platform.",
+      "company": "Microsoft",
+     "company logo": "",
+     "country": "India",
      "featured": false,
      "name": "Harshada Kshirsagar",
+     "shortBio": "Windows Dev Consultant- The community rockstar and star advisor from Microsoft is here to share her valuable knowledge about Xamrin.",
      "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/harshida.jpeg?alt=media&token=3e5f557a-5a4d-4477-aa82-8ec49b91cbdb",
      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/harshida.jpeg?alt=media&token=3e5f557a-5a4d-4477-aa82-8ec49b91cbdb",
      "socials": [
        {
+         "icon": "github",
+         "link": "",
+         "name": "Github"
+       },
+       {
          "icon": "linkedin",
-         "link": "https://www.linkedin.com/in/harshada-kshirsagar-66848017",
+         "link": "",
          "name": "LinkedIn"
+       },
+       {
+         "icon": "stackoverflow",
+         "link": "",
+         "name": "Stack Overflow"
        }
      ],
-     "order": 8,
+      "order": 8,
      "title": "Xamarin"
-    }
   },
+
   "team": [
     {
       "members": [

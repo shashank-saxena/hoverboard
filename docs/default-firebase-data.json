@@ -125,14 +125,18 @@
     "Varun Kothari": {
       "badges": [
         {
-          "description": "Google Cloud"
+          "description": "Technical Architect and Blockchain Expert"
         }
       ],
+      "bio": "Born with the spirit to uplift the tech world, Varun believes in gratifying challenges and bring dreams to work. He loves to play with myriad of technologies and programming languages. He is one of the top versatile full-stack developer and has developed a wide range of websites using Ruby on Rails and blockchain. He has significantly contributed and got recognition for design, development and deployment of world-class web applications. From completing end to end management of new websites development projects to managing teams, He has done it all. Currently this dynamic personality is working as senior Ruby on Rails and blockchain developer in Throughout Technologies Pvt. Ltd. Having a long time experience in microservices, He has enabled the continuous deployment of large and complex applications, we are delighted to invite him for enriching our top notch crowd with indispensable knowledge and experience through a hands on session in microservices",
       "company": "Throughout Technologies Pvt. Ltd",
+      "company logo": " ",
+      "country": "India",
       "featured": false,
       "name": "Varun Kothari",
       "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/varunkothari.jpeg?alt=media&token=90512e38-a8a9-4cfd-9c5c-b419e3ea24b4",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/varunkothari.jpeg?alt=media&token=90512e38-a8a9-4cfd-9c5c-b419e3ea24b4",
+      "shortBio": "Dynamic and versatile full stack developer with proficiency in blockchain",
       "socials": [
         {
           "icon": "github",
@@ -151,14 +155,18 @@
         }
       ],
       "order": 1,
-      "title": "Co-founder, Director"
+      "title": "Senior Developer"
     },
     "Ishwar Sawale": {
+      "bio": "An expert brain is here to enrich you with his hands on session on Machine Learning, AI and Deep Learning. He is a machine learning researcher, data scientist and software developer with an experience of 3+ years and an expertise in Chat Bot development, DevOps and Computer Vision. He has worked on numerous face recognition projects and has also launched an open source face recognition library based on Facenet. So you thought only humans have brains? Come and change your outlook on what machines has for you!!",
       "company": "Mindstix Software Labs",
+      "company logo": " ",
+      "country": "India",
       "featured": false,
       "name": "Ishwar Sawale",
       "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/Ishwars.jpeg?alt=media&token=e75cd408-1672-4623-8b4d-179a1fbb2e51",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/Ishwars.jpeg?alt=media&token=e75cd408-1672-4623-8b4d-179a1fbb2e51",
+      "shortBio": "An expert Data Scientist",
       "socials": [
         {
           "icon": "github",
@@ -180,105 +188,184 @@
       "title": "Data Scientist"
     },
     "Ankush Tiwari": {
+      "bio": "As the CTO of Mobiliya Technologies, Pune, his key focus areas are leading the IT Strategy, managing global alliances , overseeing annual financial and regulatory planning, and managing multiple engineering teams worldwide. He is also a Machine Learning, AI and Deep Learning expert. His session will enlighten the audience with Machine Learning and Deep Learning concepts.  ",
       "company": "Mobiliya Technologies",
+      "company logo": " ",
+      "country": "India",
       "featured": false,
       "name": "Ankush Tiwari",
       "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/AnkushTiwari.jpeg?alt=media&token=57adb56c-df3d-4370-a46c-7c7ad0cce714",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/AnkushTiwari.jpeg?alt=media&token=57adb56c-df3d-4370-a46c-7c7ad0cce714",
+      "shortBio": "Chief Technical Officer at Mobiliya Technologies, Pune",
       "socials": [
+        {
+          "icon": "github",
+          "link": "",
+          "name": "Github"
+        },
         {
           "icon": "linkedin",
           "link": "www.linkedin.com/in/ankushtiwari",
           "name": "LinkedIn"
+        },
+        {
+          "icon": "stackoverflow",
+          "link": "",
+          "name": "Stack Overflow"
         }
       ],
       "order": 3,
       "title": "Machine Learning Expert"
     },
     "Ajinkya Kolhe": {
+      "badges": [
+        {
+          "description": "Data Engineering & Machine Learning Instructor Google Cloud Platform",
+          "link": "https://www.linkedin.com/in/ajinkyakolhe112",
+          "name": "Data Engineering & Machine Learning Instructor Google Cloud Platform"
+        }
+      ],
+      "bio": "Avid reader since childhood. Now diving in depth of Machine Learning. He thinks technology should be fun. He has a passion for technology and loves learning and educating others about latest technologies by engaging himself in public speaking.",
       "company": "Google",
+      "companyLogo": "https://www.colt.net/wp-content/uploads/2018/06/Google-Cloud-Logo-Lockup-Vertical-medium-png.png",
+      "companyLogoUrl": "https://www.colt.net/wp-content/uploads/2018/06/Google-Cloud-Logo-Lockup-Vertical-medium-png.png",
+      "country": "Mumbai, India",
       "featured": false,
       "name": "Ajinkya Kolhe",
       "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.55.00%20PM.jpeg?alt=media&token=261412aa-8770-41c4-857c-8c3189cd7a9c",
       "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.55.00%20PM.jpeg?alt=media&token=261412aa-8770-41c4-857c-8c3189cd7a9c",
+      "shortBio": "Data Engineering & Machine Learning Instructor. Avid reader since childhood. Now diving in depth of Machine Learning.",
       "socials": [
         {
+          "icon": "twitter",
+          "link": "https://twitter.com/ajinkyakolhe112",
+          "name": "Twitter"
+        },
+        {
           "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/ajinkyakolhe112/",
-          "name": "LinkedIn"
+          "link": "https://www.linkedin.com/in/ajinkyakolhe112",
+          "name": "Twitter"
         }
       ],
       "order": 4,
-      "title": "Machine Learning Expert"
-    },
-    "Pawan Kumar": {
-      "company": "Flick2Know Technologies Pvt Ltd",
-      "featured": false,
-      "name": "Pawan Kumar",
-      "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.30.40%20PM.jpeg?alt=media&token=01f452c3-c9e5-46e2-a084-5d45e4ee3957",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.30.40%20PM.jpeg?alt=media&token=01f452c3-c9e5-46e2-a084-5d45e4ee3957",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://in.linkedin.com/in/imthepk",
-          "name": "LinkedIn"
-        },
-        {
-          "icon": "github",
-          "link": "https://github.com/iampawan",
-          "name": "Github"
-        }
-      ],
-      "order": 5,
-      "title": "Flutter"
-    },
-    "Tarulata Champawat": {
-      "company": "Infobeans technologies Ltd",
-      "featured": false,
-      "name": "Tarulata Champawat",
-      "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.30.17%20PM.jpeg?alt=media&token=6f6bbe51-de7a-49cd-b796-e0b7442282ab",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.30.17%20PM.jpeg?alt=media&token=6f6bbe51-de7a-49cd-b796-e0b7442282ab",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/tarulata-champawat-04193416/",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 6,
-      "title": "ServiceNow"
-    },
-    "Nikita Gandhi": {
-      "company": "JI Technovation Pvt LTD",
-      "featured": false,
-      "name": "Nikita Gandhi",
-      "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.31.21%20PM%20(1).jpeg?alt=media&token=cb1ce412-c201-482f-a124-350af556dd2a",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.31.21%20PM%20(1).jpeg?alt=media&token=cb1ce412-c201-482f-a124-350af556dd2a",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/nikita-gandhi-538071a1/",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 7,
-      "title": "Flutter"
-    },
-    "Harshada Kshirsagar": {
-      "company": "Microsoft",
-      "featured": false,
-      "name": "Harshada Kshirsagar",
-      "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/harshida.jpeg?alt=media&token=3e5f557a-5a4d-4477-aa82-8ec49b91cbdb",
-      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/harshida.jpeg?alt=media&token=3e5f557a-5a4d-4477-aa82-8ec49b91cbdb",
-      "socials": [
-        {
-          "icon": "linkedin",
-          "link": "https://www.linkedin.com/in/harshada-kshirsagar-66848017",
-          "name": "LinkedIn"
-        }
-      ],
-      "order": 8,
-      "title": "Xamarin"
+      "title": "Data Engineering & Machine Learning Instructor"
+   },
+   "Pawan Kumar": {
+     "badges": [
+       {
+         "description": "Google Developer Expert"
+       }
+     ],
+     "bio": "Pawan is a Google Developer Expert for flutter and active to help different android communities on StackOverflow and Youtube. He is currently working in Flick2Know Technologies Pvt. Ltd., Gurgaon as senior software engineer. He is an enthusiastic developer and an entrepreneur having facination to work for technology and design areas. He is full of energy for flutter and Dart technology. He has worked on many projects in flutter like app for collection of UI in UIKit, WhatsApp Clone, First Open Source Flutter based material design music player, app with firebase libraries. So, energise yourself to have a informative session with him.",
+     "company": "Flick2Know Technologies Pvt. Ltd.",
+     "company logo": "",
+     "country": "India",
+     "featured": false,
+     "name": "Pawan Kumar",
+     "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.30.40%20PM.jpeg?alt=media&token=01f452c3-c9e5-46e2-a084-5d45e4ee3957",
+     "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.30.40%20PM.jpeg?alt=media&token=01f452c3-c9e5-46e2-a084-5d45e4ee3957",
+     "shortBio": "Pawan is a Google Developer Expert for flutter and active to help different android communities on StackOverflow and Youtube.He is currently working in Flick2Know Technologies Pvt. Ltd., Gurgaon as senior software engineer.",
+     "socials": [
+       {
+         "icon": "github",
+         "link": "https://github.com/iampawan",
+         "name": "Github"
+       },
+       {
+         "icon": "linkedin",
+         "link": "https://www.linkedin.com/in/imthepk/?originalSubdomain=in",
+         "name": "LinkedIn"
+       }
+     ],
+     "order": 5,
+     "title": "Google Developer Expert"
+   },
+   "Tarulata Champawat": {
+     "bio": "She is Global Manager(Technical Solutions and PreSales) of Infobeans Technologies Limited, Indore. She is in the software game for over 17 years and having expertise in ServiceNow and its integration with Google Alexa, Splunk, Jira and Slack. She is having the curiosity and passion to deliver Wow experience to clients. She likes to think herself as the teller of the stories behind the Technologies they works on, the solutions they create and and the experience they deliver.",
+     "company": "Infobeans Technologies limited",
+     "company logo": "",
+     "country": "India",
+     "featured": false,
+     "name": "Tarulata Champawat",
+     "photoUrl": "",
+     "shortBio": "Global Manager - (Technical Solutions and PreSales) at Infobeans Technologies Limited",
+     "socials": [
+       {
+         "icon": "github",
+         "link": "",
+         "name": "Github"
+       },
+       {
+         "icon": "linkedin",
+         "link": "https://www.linkedin.com/in/tarulata-champawat-04193416/",
+         "name": "LinkedIn"
+       },
+       {
+         "icon": "stackoverflow",
+         "link": "",
+         "name": "Stack Overflow"
+       }
+     ],
+     "order": 6,
+     "title": "ServiceNow Expert"
+   },
+   "Nikita_Gandhi": {
+     "badges": [
+       {
+         "description": "Product Lead",
+         "link": "https://www.womentechmakers.com/directory/nikita-gandhi",
+         "name": "Women Techmakers Pune Organiser"
+       }
+     ],
+     "bio": "Born with the spirit of an entrepreneur, Nikita loves to create, build and just do fun stuff in the technology field. She enjoys delivering talks and conducting workshops for Python, Mobile and Web technologies. Her primary expertise is Flutter and Python, but she is also friendly to backend technologies. She loves being a part of something that delivers a change. Currently, She is an organiser of Women Techmakers Pune. She is an active community contributor and likes to write blogs in her free time.",
+     "company": "JI Technovation",
+     "company logo": "",
+     "country": "India",
+     "featured": true,
+     "name": "Nikita Gandhi",
+     "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.31.21%20PM%20(1).jpeg?alt=media&token=cb1ce412-c201-482f-a124-350af556dd2a",
+     "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.31.21%20PM%20(1).jpeg?alt=media&token=cb1ce412-c201-482f-a124-350af556dd2a",
+     "shortBio": "Born with the spirit of an entrepreneur, Nikita loves to create, build and make positive impact in the community.",
+     "socials": [
+       {
+         "icon": "linkedin",
+         "link": "https://www.linkedin.com/in/nikita-gandhi-538071a1/",
+         "name": "LinkedIn"
+       },
+       {
+         "icon": "facebook",
+         "link": "https://www.facebook.com/nikita.gandhi01",
+         "name": "Facebook"
+       },
+       {
+         "icon": "twitter",
+         "link": "https://twitter.com/Nikkitagandhi",
+         "name": "Twitter"
+       },
+       {
+         "icon": "gplus",
+         "link": "https://plus.google.com/u/0/+NikitaGandhi01",
+         "name": "Google+"
+       }
+     ],
+     "order": 7,
+     "title": "Flutter Evangelist & Developer"
+   },
+   "Harshada Kshirsagar": {
+     "company": "Microsoft",
+     "featured": false,
+     "name": "Harshada Kshirsagar",
+     "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/harshida.jpeg?alt=media&token=3e5f557a-5a4d-4477-aa82-8ec49b91cbdb",
+     "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/harshida.jpeg?alt=media&token=3e5f557a-5a4d-4477-aa82-8ec49b91cbdb",
+     "socials": [
+       {
+         "icon": "linkedin",
+         "link": "https://www.linkedin.com/in/harshada-kshirsagar-66848017",
+         "name": "LinkedIn"
+       }
+     ],
+     "order": 8,
+     "title": "Xamarin"
     }
   },
   "team": [

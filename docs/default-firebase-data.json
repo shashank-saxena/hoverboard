@@ -249,123 +249,173 @@
       ],
       "order": 4,
       "title": "Data Engineering & Machine Learning Instructor"
-   },
-   "Pawan Kumar": {
-     "badges": [
-       {
-         "description": "Google Developer Expert"
-       }
-     ],
-     "bio": "Pawan is a Google Developer Expert for flutter and active to help different android communities on StackOverflow and Youtube. He is currently working in Flick2Know Technologies Pvt. Ltd., Gurgaon as senior software engineer. He is an enthusiastic developer and an entrepreneur having facination to work for technology and design areas. He is full of energy for flutter and Dart technology. He has worked on many projects in flutter like app for collection of UI in UIKit, WhatsApp Clone, First Open Source Flutter based material design music player, app with firebase libraries. So, energise yourself to have a informative session with him.",
-     "company": "Flick2Know Technologies Pvt. Ltd.",
-     "company logo": "",
-     "country": "India",
-     "featured": false,
-     "name": "Pawan Kumar",
-     "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.30.40%20PM.jpeg?alt=media&token=01f452c3-c9e5-46e2-a084-5d45e4ee3957",
-     "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.30.40%20PM.jpeg?alt=media&token=01f452c3-c9e5-46e2-a084-5d45e4ee3957",
-     "shortBio": "Pawan is a Google Developer Expert for flutter and active to help different android communities on StackOverflow and Youtube.He is currently working in Flick2Know Technologies Pvt. Ltd., Gurgaon as senior software engineer.",
-     "socials": [
-       {
-         "icon": "github",
-         "link": "https://github.com/iampawan",
-         "name": "Github"
-       },
-       {
-         "icon": "linkedin",
-         "link": "https://www.linkedin.com/in/imthepk/?originalSubdomain=in",
-         "name": "LinkedIn"
-       }
-     ],
-     "order": 5,
-     "title": "Google Developer Expert"
-   },
-   "Tarulata Champawat": {
-     "bio": "She is Global Manager(Technical Solutions and PreSales) of Infobeans Technologies Limited, Indore. She is in the software game for over 17 years and having expertise in ServiceNow and its integration with Google Alexa, Splunk, Jira and Slack. She is having the curiosity and passion to deliver Wow experience to clients. She likes to think herself as the teller of the stories behind the Technologies they works on, the solutions they create and and the experience they deliver.",
-     "company": "Infobeans Technologies limited",
-     "company logo": "",
-     "country": "India",
-     "featured": false,
-     "name": "Tarulata Champawat",
-     "photoUrl": "",
-     "shortBio": "Global Manager - (Technical Solutions and PreSales) at Infobeans Technologies Limited",
-     "socials": [
-       {
-         "icon": "github",
-         "link": "",
-         "name": "Github"
-       },
-       {
-         "icon": "linkedin",
-         "link": "https://www.linkedin.com/in/tarulata-champawat-04193416/",
-         "name": "LinkedIn"
-       },
-       {
-         "icon": "stackoverflow",
-         "link": "",
-         "name": "Stack Overflow"
-       }
-     ],
-     "order": 6,
-     "title": "ServiceNow Expert"
-   },
-   "Nikita_Gandhi": {
-     "badges": [
-       {
-         "description": "Product Lead",
-         "link": "https://www.womentechmakers.com/directory/nikita-gandhi",
-         "name": "Women Techmakers Pune Organiser"
-       }
-     ],
-     "bio": "Born with the spirit of an entrepreneur, Nikita loves to create, build and just do fun stuff in the technology field. She enjoys delivering talks and conducting workshops for Python, Mobile and Web technologies. Her primary expertise is Flutter and Python, but she is also friendly to backend technologies. She loves being a part of something that delivers a change. Currently, She is an organiser of Women Techmakers Pune. She is an active community contributor and likes to write blogs in her free time.",
-     "company": "JI Technovation",
-     "company logo": "",
-     "country": "India",
-     "featured": true,
-     "name": "Nikita Gandhi",
-     "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.31.21%20PM%20(1).jpeg?alt=media&token=cb1ce412-c201-482f-a124-350af556dd2a",
-     "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.31.21%20PM%20(1).jpeg?alt=media&token=cb1ce412-c201-482f-a124-350af556dd2a",
-     "shortBio": "Born with the spirit of an entrepreneur, Nikita loves to create, build and make positive impact in the community.",
-     "socials": [
-       {
-         "icon": "linkedin",
-         "link": "https://www.linkedin.com/in/nikita-gandhi-538071a1/",
-         "name": "LinkedIn"
-       },
-       {
-         "icon": "facebook",
-         "link": "https://www.facebook.com/nikita.gandhi01",
-         "name": "Facebook"
-       },
-       {
-         "icon": "twitter",
-         "link": "https://twitter.com/Nikkitagandhi",
-         "name": "Twitter"
-       },
-       {
-         "icon": "gplus",
-         "link": "https://plus.google.com/u/0/+NikitaGandhi01",
-         "name": "Google+"
-       }
-     ],
-     "order": 7,
-     "title": "Flutter Evangelist & Developer"
-   },
-   "Harshada Kshirsagar": {
-     "company": "Microsoft",
-     "featured": false,
-     "name": "Harshada Kshirsagar",
-     "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/harshida.jpeg?alt=media&token=3e5f557a-5a4d-4477-aa82-8ec49b91cbdb",
-     "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/harshida.jpeg?alt=media&token=3e5f557a-5a4d-4477-aa82-8ec49b91cbdb",
-     "socials": [
-       {
-         "icon": "linkedin",
-         "link": "https://www.linkedin.com/in/harshada-kshirsagar-66848017",
-         "name": "LinkedIn"
-       }
-     ],
-     "order": 8,
-     "title": "Xamarin"
+    },
+    "Pawan Kumar": {
+      "badges": [
+        {
+          "description": "Google Developer Expert"
+        }
+      ],
+      "bio": "Pawan is a Google Developer Expert for flutter and active to help different android communities on StackOverflow and Youtube. He is currently working in Flick2Know Technologies Pvt. Ltd., Gurgaon as senior software engineer. He is an enthusiastic developer and an entrepreneur having facination to work for technology and design areas. He is full of energy for flutter and Dart technology. He has worked on many projects in flutter like app for collection of UI in UIKit, WhatsApp Clone, First Open Source Flutter based material design music player, app with firebase libraries. So, energise yourself to have a informative session with him.",
+      "company": "Flick2Know Technologies Pvt. Ltd.",
+      "company logo": "",
+      "country": "India",
+      "featured": false,
+      "name": "Pawan Kumar",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.30.40%20PM.jpeg?alt=media&token=01f452c3-c9e5-46e2-a084-5d45e4ee3957",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.30.40%20PM.jpeg?alt=media&token=01f452c3-c9e5-46e2-a084-5d45e4ee3957",
+      "shortBio": "Pawan is a Google Developer Expert for flutter and active to help different android communities on StackOverflow and Youtube.He is currently working in Flick2Know Technologies Pvt. Ltd., Gurgaon as senior software engineer.",
+      "socials": [
+        {
+          "icon": "github",
+          "link": "https://github.com/iampawan",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/imthepk/?originalSubdomain=in",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 5,
+      "title": "Google Developer Expert"
+    },
+    "Tarulata Champawat": {
+      "bio": "She is Global Manager(Technical Solutions and PreSales) of Infobeans Technologies Limited, Indore. She is in the software game for over 17 years and having expertise in ServiceNow and its integration with Google Alexa, Splunk, Jira and Slack. She is having the curiosity and passion to deliver Wow experience to clients. She likes to think herself as the teller of the stories behind the Technologies they works on, the solutions they create and and the experience they deliver.",
+      "company": "Infobeans Technologies limited",
+      "company logo": "",
+      "country": "India",
+      "featured": false,
+      "name": "Tarulata Champawat",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.30.17%20PM.jpeg?alt=media&token=6f6bbe51-de7a-49cd-b796-e0b7442282ab",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.30.17%20PM.jpeg?alt=media&token=6f6bbe51-de7a-49cd-b796-e0b7442282ab",
+      "shortBio": "Global Manager - (Technical Solutions and PreSales) at Infobeans Technologies Limited",
+      "socials": [
+        {
+          "icon": "github",
+          "link": "",
+          "name": "Github"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/tarulata-champawat-04193416/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "stackoverflow",
+          "link": "",
+          "name": "Stack Overflow"
+        }
+      ],
+      "order": 6,
+      "title": "ServiceNow Expert"
+    },
+    "Nikita_Gandhi": {
+      "badges": [
+        {
+          "description": "Product Lead",
+          "link": "https://www.womentechmakers.com/directory/nikita-gandhi",
+          "name": "Women Techmakers Pune Organiser"
+        }
+      ],
+      "bio": "Born with the spirit of an entrepreneur, Nikita loves to create, build and just do fun stuff in the technology field. She enjoys delivering talks and conducting workshops for Python, Mobile and Web technologies. Her primary expertise is Flutter and Python, but she is also friendly to backend technologies. She loves being a part of something that delivers a change. Currently, She is an organiser of Women Techmakers Pune. She is an active community contributor and likes to write blogs in her free time.",
+      "company": "JI Technovation",
+      "company logo": "",
+      "country": "India",
+      "featured": true,
+      "name": "Nikita Gandhi",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.31.21%20PM%20(1).jpeg?alt=media&token=cb1ce412-c201-482f-a124-350af556dd2a",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/WhatsApp%20Image%202018-10-28%20at%209.31.21%20PM%20(1).jpeg?alt=media&token=cb1ce412-c201-482f-a124-350af556dd2a",
+      "shortBio": "Born with the spirit of an entrepreneur, Nikita loves to create, build and make positive impact in the community.",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/nikita-gandhi-538071a1/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/nikita.gandhi01",
+          "name": "Facebook"
+        },
+        {
+          "icon": "twitter",
+          "link": "https://twitter.com/Nikkitagandhi",
+          "name": "Twitter"
+        },
+        {
+          "icon": "gplus",
+          "link": "https://plus.google.com/u/0/+NikitaGandhi01",
+          "name": "Google+"
+        }
+      ],
+      "order": 7,
+      "title": "Flutter Evangelist & Developer"
+    },
+    "Harshada Kshirsagar": {
+      "badges": [
+        {
+          "description": "Technical Advisor"
+        }
+      ],
+      "bio": "The star advisor at Microsoft, Harshada believes in supporting and helping people through her contributions to technology. She has worked with ISVs and partners in the EDU sector to bring their applications and services on Windows 10 and the Microsoft Store. She loves mentoring students and professionals through lightning talks and workshops with her primary expertise being Cross platform app development with Xamarin and MSIX. Her community contributions has won her the most prestigious award by Microsoft Developer Evangelist team for supporting and encouraging startups and techies globally.",
+      "company": "Microsoft",
+      "company logo": "",
+      "country": "India",
+      "featured": false,
+      "name": "Harshada Kshirsagar",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/harshida.jpeg?alt=media&token=3e5f557a-5a4d-4477-aa82-8ec49b91cbdb",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/harshida.jpeg?alt=media&token=3e5f557a-5a4d-4477-aa82-8ec49b91cbdb",
+      "shortBio": "Microsoft Developer Evangelist award recipient",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/harshada-kshirsagar-66848017/",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 1,
+      "title": "Windows Dev Consult Engineer at Microsoft"
+    },
+    "Dr. Satish Patil": {
+      "bio": "A scientist by training and an entrepreneur by nature, Satish founded Crysagi Systems and is currently building it. Satish realized that the machine learning research was full of business opportunities. He set out to build a new approach of knowledge transfer where we can help companies find business opportunities that exist at the intersection of their existing data and machine learning research.",
+      "company": " Crysagi Systems Pvt Ltd",
+      "company logo": "",
+      "country": "India",
+      "featured": false,
+      "name": "Dr. Satish Patil",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/SatishPatil.jpeg?alt=media&token=46432e8e-a81d-4d7c-8d72-02ad681017dc",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/SatishPatil.jpeg?alt=media&token=46432e8e-a81d-4d7c-8d72-02ad681017dc",
+      "shortBio": "Founder and Chief Data Scientist at Crysagi Systems Pvt Ltd",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://in.linkedin.com/in/satish-patil-phd-37042790",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 1,
+      "title": "Data Scientist"
+    },
+    "Mayank Mishra": {
+      "bio": "Lightning Talk  Migrating Big Data solutions to Google Cloud Platform - considerations, architecture and recommendations",
+      "company": "Impetus",
+      "company logo": "",
+      "country": "India",
+      "featured": false,
+      "name": "Mayank Mishra",
+      "photo": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/mayankmishra.jpeg?alt=media&token=b1cefcac-04fc-42a8-b830-5a48be5b37c9",
+      "photoUrl": "https://firebasestorage.googleapis.com/v0/b/gdg-devfest-18-97ada.appspot.com/o/mayankmishra.jpeg?alt=media&token=b1cefcac-04fc-42a8-b830-5a48be5b37c9",
+      "shortBio": "Lightning Talk  Migrating Big Data solutions to Google Cloud Platform - considerations, architecture and recommendations",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "http://linkedin.com/in/mayank-mishra-3926701",
+          "name": "LinkedIn"
+        }
+      ],
+      "order": 1,
+      "title": "Innovation Lead, Big Data Solutions"
     }
   },
   "team": [
@@ -593,11 +643,11 @@
   ],
   "tickets": [
     {
-      "available": true,
-      "primary": true,
-      "regular": true,
-      "soldOut": false,
-      "inDemand": true,
+      "available": false,
+      "primary": false,
+      "regular": false,
+      "soldOut": true,
+      "inDemand": false,
       "info": "Valid for Female developers only. To promote more Female in tech we are giving access to female developers separately. Any male registered for this ticket will be disqualified automatically at the event.",
       "name": "Women Techmakers",
       "ends": "30 Oct",
@@ -607,8 +657,8 @@
     {
       "available": false,
       "primary": false,
-      "regular": true,
-      "soldOut": false,
+      "regular": false,
+      "soldOut": true,
       "inDemand": false,
       "ends": "02 Nov",
       "info": "This ticket is valid for students and professional developers who are enthusiastic about learning new technologies. Make sure you have prior programming experience as topics of sessions will be advanced, taking the audience into consideration.",
@@ -617,11 +667,11 @@
       "url": "https://www.townscript.com/e/gdg-indore-devfest-2018-224422"
     },
     {
-      "available": false,
-      "primary": false,
+      "available": true,
+      "primary": true,
       "regular": true,
       "soldOut": false,
-      "inDemand": false,
+      "inDemand": true,
       "ends": "07 Nov",
       "info": "This ticket is valid only for non-student working professionals who are part of any organisation. It will be compulsory to show your professional ID (company identification) at the event entrance.",
       "name": "Professional Developer",

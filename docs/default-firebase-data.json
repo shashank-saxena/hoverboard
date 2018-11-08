@@ -667,11 +667,11 @@
       "url": "https://www.townscript.com/e/gdg-indore-devfest-2018-224422"
     },
     {
-      "available": true,
-      "primary": true,
+      "available": false,
+      "primary": false,
       "regular": true,
-      "soldOut": false,
-      "inDemand": true,
+      "soldOut": true,
+      "inDemand": false,
       "ends": "07 Nov",
       "info": "This ticket is valid only for non-student working professionals who are part of any organisation. It will be compulsory to show your professional ID (company identification) at the event entrance.",
       "name": "Professional Developer",
@@ -679,11 +679,11 @@
       "url": "https://www.townscript.com/e/gdg-indore-devfest-2018-224422"
     },
     {
-      "available": false,
-      "primary": false,
+      "available": true,
+      "primary": true,
       "regular": true,
       "soldOut": false,
-      "inDemand": false,
+      "inDemand": true,
       "ends": "10 Nov",
       "info": "This ticket is valid for students as well as working professionals. Make sure you have prior programming experience as topics of sessions will be advanced taking the audience in consideration.",
       "name": "Regular Bird",
